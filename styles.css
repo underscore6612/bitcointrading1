@@ -1,0 +1,17 @@
+.floating-whatsapp img {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #25D366;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    /* padding: 15px; */
+
+
+    width: 13rem;
+    /* height: 10px; */
+    /* border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px; */
+}
